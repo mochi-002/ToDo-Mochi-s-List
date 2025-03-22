@@ -143,7 +143,7 @@ void saveTasksToFile() {
         file << task.description << "\n" << task.category << "\n" << task.priority << "\n" << task.dueDate << "\n" << task.isCompleted << "\n";
     }
     file.close();
-    cout << "\033[1;32mTasks saved to file!\033[0m\n";
+    cout << "\033[32mTasks saved to file!\033[0m\n";
 }
 
 // Load tasks from a file
@@ -160,5 +160,5 @@ void loadTasksFromFile() {
         tasks.push_back(task);
     }
     file.close();
-    cout << "\033[1;32mTasks loaded from file!\033[0m\n";
+    cout << "\033[32mTasks loaded from file!\033[0m\n";
 }
