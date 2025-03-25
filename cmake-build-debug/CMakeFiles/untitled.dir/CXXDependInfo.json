@@ -1,0 +1,27 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "D:/CLion/Projects/To_Do_List_Project/cmake-build-debug",
+	"dir-cur-src" : "D:/CLion/Projects/To_Do_List_Project",
+	"dir-top-bld" : "D:/CLion/Projects/To_Do_List_Project/cmake-build-debug",
+	"dir-top-src" : "D:/CLion/Projects/To_Do_List_Project",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "D:/CLion/Projects/To_Do_List_Project/cmake-build-debug/CMakeFiles/untitled.dir",
+	"sources" : 
+	{
+		"CMakeFiles/untitled.dir/main.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "D:/CLion/Projects/To_Do_List_Project/main.cpp"
+		}
+	}
+}
