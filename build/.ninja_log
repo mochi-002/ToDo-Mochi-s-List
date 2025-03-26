@@ -1,0 +1,12 @@
+# ninja log v6
+3	366	7646454873509857	CMakeFiles/ToDoList.dir/main.cpp.obj	5ce22248d3e49efa
+8	827	7646454873544915	CMakeFiles/ToDoList.dir/todo.cpp.obj	ea8837641649e8fc
+827	945	7646454881743334	ToDoList.exe	635b9230fab0add3
+7	408	7646531069344899	CMakeFiles/ToDoList.dir/main.cpp.obj	5ce22248d3e49efa
+13	894	7646531069414790	CMakeFiles/ToDoList.dir/todo.cpp.obj	ea8837641649e8fc
+894	1058	7646531078219041	ToDoList.exe	635b9230fab0add3
+7	402	7646531773568975	CMakeFiles/ToDoList.dir/main.cpp.obj	5ce22248d3e49efa
+10	834	7646531773609011	CMakeFiles/ToDoList.dir/todo.cpp.obj	ea8837641649e8fc
+834	953	7646531781842959	ToDoList.exe	635b9230fab0add3
+11	1196	7646558284317984	CMakeFiles/ToDoList.dir/todo.cpp.obj	ea8837641649e8fc
+1196	1388	7646558296166206	ToDoList.exe	635b9230fab0add3

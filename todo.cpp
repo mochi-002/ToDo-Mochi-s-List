@@ -55,7 +55,6 @@ void addTask() {
     cout << MOCHI_PINK << "\n============ Add New Task ============\n" << MOCHI_RESET;
 
     cout << MOCHI_YELLOW << "Description: " << MOCHI_RESET;
-    cin.ignore();
     getline(cin, newTask.description);
 
     cout << MOCHI_YELLOW << "Category: " << MOCHI_RESET;
@@ -144,7 +143,7 @@ void searchTasks() {
     cout << MOCHI_PINK << "Search for tasks (enter keyword): " << MOCHI_RESET;
 
     string query;
-    cin.ignore();
+    //cin.ignore();
     getline(cin, query);
 
     bool found = false;
